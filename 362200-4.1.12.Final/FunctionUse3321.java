@@ -1,0 +1,6 @@
+import io.netty.buffer.UnpooledByteBufAllocator.InstrumentedUnpooledUnsafeNoCleanerDirectByteBuf;
+public class FunctionUse3321 {
+public void funcUse() {
+InstrumentedUnpooledUnsafeNoCleanerDirectByteBuf instrumentedunpooledunsafenocleanerdirectbytebuf = new InstrumentedUnpooledUnsafeNoCleanerDirectByteBuf();
+}
+}

@@ -1,0 +1,7 @@
+import io.netty.handler.codec.dns.DefaultDnsRawRecord;
+public class FunctionUse19312 {
+public void funcUse() {
+DefaultDnsRawRecord defaultdnsrawrecord = new DefaultDnsRawRecord();
+defaultdnsrawrecord.touch();
+}
+}

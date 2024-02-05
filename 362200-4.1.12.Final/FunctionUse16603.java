@@ -1,0 +1,7 @@
+import io.netty.handler.codec.http.DefaultFullHttpResponse;
+public class FunctionUse16603 {
+public void funcUse() {
+DefaultFullHttpResponse defaultfullhttpresponse = new DefaultFullHttpResponse();
+defaultfullhttpresponse.copy();
+}
+}
